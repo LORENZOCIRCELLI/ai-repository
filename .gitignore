@@ -208,3 +208,6 @@ __marimo__/
 
 notebooks/data/
 data/raw
+data/processed
+data/interim
+data/external
